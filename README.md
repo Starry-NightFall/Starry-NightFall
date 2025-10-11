@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **FIVERR**
+ <!-- 🔭 I’m currently working on **FIVERR** -->
  
  🌱 I’m currently learning **Node JS, Python, React Native**
 
@@ -103,7 +103,7 @@
 
 ![Siam's GitHub Summery](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Starry-NightFall&theme=transparent)
 
-![Commits Stat of SIAM-The-Legend](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Starry-NightFall&theme=transparent)
+![Commits Stat of Starry-NightFall](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Starry-NightFall&theme=transparent)
 ![Commit Bar](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Starry-NightFall&theme=transparent&utcOffset=8)
 
 [![Siam's GitHub Streak](https://streak-stats.demolab.com?user=Starry-NightFall&theme=dark&hide_border=true&border_radius=1&mode=weekly&card_width=1000)](https://git.io/streak-stats)
