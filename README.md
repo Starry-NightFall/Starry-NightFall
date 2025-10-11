@@ -36,38 +36,40 @@
   <br/>  
   <h3 align="left" border-bottom="1px">Languages :</h3>
   
+  ![C](https://skillicons.dev/icons?i=c "C")&nbsp;
   ![Python](https://skillicons.dev/icons?i=python "Python")&nbsp;
-  ![CSS](https://skillicons.dev/icons?i=css "CSS")&nbsp;
   ![JavaScript](https://skillicons.dev/icons?i=javascript "JavaScript")&nbsp;
   ![TypeScript](https://skillicons.dev/icons?i=typescript "TypeScript")&nbsp;
-  ![HTML](https://skillicons.dev/icons?i=html "HTML")&nbsp;
-  ![C++](https://skillicons.dev/icons?i=cpp "C++")&nbsp;
+  ![Bash](https://skillicons.dev/icons?i=bash "Bash")&nbsp;
+  <!-- ![HTML](https://skillicons.dev/icons?i=html "HTML")&nbsp; -->
+  <!-- ![C++](https://skillicons.dev/icons?i=cpp "C++")&nbsp; -->
 
-  <h3 align="left" border-bottom="1px">Styling Libraries and Frameworks :</h3>
-  
-  ![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")&nbsp;
-  ![BootStrap](https://skillicons.dev/icons?i=bootstrap "Bootstrap")&nbsp;
-  ![Material UI](https://skillicons.dev/icons?i=mui "Material UI")&nbsp;
-  
-  <h3 align="left" border-bottom="1px">Javascript Libraries, Frameworks and Runtime Engines :</h3>
+  <h3 align="left" border-bottom="1px">Libraries and Frameworks :</h3>
   
   ![ReactJS](https://skillicons.dev/icons?i=react "ReactJS")&nbsp;
+  ![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")&nbsp;
   ![NodeJS](https://skillicons.dev/icons?i=nodejs "NodeJS")&nbsp;
   ![NextJS](https://skillicons.dev/icons?i=next "NextJS")&nbsp;
-  ![ElectronJS](https://skillicons.dev/icons?i=electron "ElectronJS")&nbsp;
   ![ExpressJS](https://skillicons.dev/icons?i=express "ExpressJS")&nbsp;
-  ![Deno](https://skillicons.dev/icons?i=deno "Deno")&nbsp;
+  
+  <!-- ![CSS](https://skillicons.dev/icons?i=css "CSS")&nbsp; -->
+  <!-- ![BootStrap](https://skillicons.dev/icons?i=bootstrap "Bootstrap")&nbsp; -->
+  <!-- ![Material UI](https://skillicons.dev/icons?i=mui "Material UI")&nbsp; -->
+  
+  <!-- <h3 align="left" border-bottom="1px">Javascript Libraries, Frameworks and Runtime Engines :</h3>
+  
+  ![ElectronJS](https://skillicons.dev/icons?i=electron "ElectronJS")&nbsp;
+  ![Deno](https://skillicons.dev/icons?i=deno "Deno")&nbsp; -->
   
   <h3 align="left" border-bottom="1px">Tools and Utilities :</h3>
   
   ![GitHub](https://skillicons.dev/icons?i=github "GitHub")&nbsp;
-  ![Figma](https://skillicons.dev/icons?i=figma "Figma")&nbsp;
-  ![Notion](https://skillicons.dev/icons?i=notion "Notion")&nbsp;
-  ![Git](https://skillicons.dev/icons?i=git "Git")&nbsp;
   ![VS Code](https://skillicons.dev/icons?i=vscode "VS Code")&nbsp;
-  ![Bash](https://skillicons.dev/icons?i=bash "Bash")&nbsp;
+  ![Notion](https://skillicons.dev/icons?i=notion "Notion")&nbsp;
+  ![Figma](https://skillicons.dev/icons?i=figma "Figma")&nbsp;
+  ![Git](https://skillicons.dev/icons?i=git "Git")&nbsp;
   
-  <h3 align="left" border-bottom="1px">Database, Authentication and Hosting :</h3>
+  <h3 align="left" border-bottom="1px">Database, Cloud and Hosting :</h3>
   
   ![MongoDB](https://skillicons.dev/icons?i=mongo "MongoDB")&nbsp;
   ![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")&nbsp;
@@ -76,11 +78,12 @@
   ![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")&nbsp;
   ![CloudFlare](https://skillicons.dev/icons?i=cloudflare "CloudFlare")&nbsp;
   
-  <h3 align="left" border-bottom="1px">Familiar Operating Systems :</h3>
+  <!-- <h3 align="left" border-bottom="1px">Familiar Operating Systems :</h3>
   
   ![Windows](https://skillicons.dev/icons?i=windows "Windows")
   ![Kali Linux](https://skillicons.dev/icons?i=kali "Kali Linux")
   ![Linux](https://skillicons.dev/icons?i=linux "Linux")
+  ![Linux](https://skillicons.dev/icons?i=ubuntu "Ubuntu") -->
 </div>
 
 <br/>
