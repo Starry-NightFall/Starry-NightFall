@@ -100,7 +100,6 @@
 <div align="center">
   <h1>--------------------- Stats ---------------------</h1>
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starry-NightFall&layout=compact&langs_count=8&theme=react&border_radius=10&count_private=true" />
 
 ![Siam's GitHub Summery](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Starry-NightFall&theme=transparent)
 
