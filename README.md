@@ -1,3 +1,5 @@
+<img src="./assets/github-header-banner.png" />
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Starry-NightFall.Starry-NightFall" />
 
 <h1 align="center">
@@ -88,7 +90,6 @@
   <h1>---------------- Contributions ----------------</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Starry-NightFall/Starry-NightFall/output/github-contribution-grid-snake-dark.svg" />
-  
   <br/><br/>
 </div>
 
