@@ -2,7 +2,6 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahriar+Hasan+Siam!;A+Full-Stack+Web+Developer;From+Bangladesh;" />
-  <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 </h1>
 
 <h3 align="center">A passionate software developer from Bangladesh</h3>
@@ -33,7 +32,7 @@
 <hr/>
  
 <div>
-  <h1 align="center">⚒️ Languages, Frameworks,Tools I Use ⚒️</h1>
+  <h1 align="center">⚒️ Tools and Technologies I Use ⚒️</h1>
   <br/>
 
   <h3 align="left" style="display: flex; align-items: center; gap: 10px;">
@@ -88,7 +87,6 @@
 <div align="center">
   <h1>---------------- Contributions ----------------</h1>
   <br>
-
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Starry-NightFall/Starry-NightFall/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/>
