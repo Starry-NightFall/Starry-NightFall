@@ -33,54 +33,60 @@
 
 <hr/>
  
-<div>
+<div align="center">
   <h1 align="center">⚒️ Tools and Technologies I Use ⚒️</h1>
   <br/>
 
-  <h3 align="left" style="display: flex; align-items: center; gap: 10px;">
-    Languages :
-    <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
-    <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
-  </h3>
+  <table width="100%" border="0" align="center">
+    <tr>
+      <td width="30%"><b>Languages</b></td>
+      <td style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
+        <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" />
+        <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
+      </td>
+    </tr>
+    <tr>
+      <td width="30%"><b>Libraries and Frameworks</b></td>
+      <td style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://skillicons.dev/icons?i=react" title="ReactJS" alt="ReactJS" />
+        <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS" />
+        <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" />
+        <img src="https://skillicons.dev/icons?i=next" title="NextJS" alt="NextJS" />
+        <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" alt="ExpressJS" />
+    </td>
+    <tr>
+      <td width="30%"><b>Tools and Utilities</b></td>
+      <td style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
+        <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" />
+        <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
+        <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+    </td>
+    <tr>
+      <td width="30%"><b>Database, and Hosting</b></td>
+      <td style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" />
+        <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify" />
+        <!-- <img src="https://skillicons.dev/icons?i=cloudflare" title="CloudFlare" alt="CloudFlare" /> -->
+    </td>
+    <tr>
+      <td width="30%"><b>Familiar Operating Systems</b></td>
+      <td style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" />
+        <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux" alt="Arch Linux" />
+        <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" />
+        <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=kali" title="Kali Linux" alt="Kali Linux" />
+    </td>
+  </table>
 
-  <h3 align="left" style="display: flex; align-items: center; gap: 10px;">
-    Libraries and Frameworks :
-    <img src="https://skillicons.dev/icons?i=react" title="ReactJS" alt="ReactJS" />
-    <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS" />
-    <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" />
-    <img src="https://skillicons.dev/icons?i=next" title="NextJS" alt="NextJS" />
-    <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" alt="ExpressJS" />
-  </h3>
-
-  <h3 align="left" style="display: flex; align-items: center; gap: 10px;">
-    Tools and Utilities :
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
-    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
-    <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" />
-    <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
-    <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
-  </h3>
-
-  <h3 align="left" style="display: flex; align-items: center; gap: 10px;">
-    Database, and Hosting :
-    <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB" alt="MongoDB" />
-    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" />
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify" />
-    <img src="https://skillicons.dev/icons?i=cloudflare" title="CloudFlare" alt="CloudFlare" />
-  </h3>
-
-  <h3 align="left" style="display: flex; align-items: center; gap: 10px;">
-    Familiar Operating Systems :
-    <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" />
-    <img src="https://skillicons.dev/icons?i=kali" title="Kali Linux" alt="Kali Linux" />
-    <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" />
-  </h3>
 </div>
 
 <br/>
