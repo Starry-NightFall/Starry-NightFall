@@ -115,7 +115,17 @@
 </div>
 
 <br/>
-<hr/>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+I'm always excited to collaborate, learn, and build impactful software.<br>
+Feel free to connect with me and let's create something amazing together! 🚀
+</p>
 
 <!-- ## 🌱 What I'm Currently Up To
 
